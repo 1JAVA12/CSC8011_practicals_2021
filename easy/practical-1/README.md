@@ -1,12 +1,5 @@
 # practical-1
 
-Make sure to fork this project into your portfolio space before progressing 
-with the practical. if you do not do this, then your changes may not be saved
-
-Instructions on how to do this can be found [here](https://ncl.instructure.com/courses/24644/pages/forking-or-cloning-a-project?module_item_id=1228552)
-
-A video showing a step by step on how to do this can be found [here](https://web.microsoftstream.com/video/4ecb0839-6fd9-48bc-b563-3ab2122ef011)
-
 ## practical-1.1
 
 In the file called `HelloWorld.java`, fill in the main method to print out to console
@@ -61,24 +54,8 @@ Expected Output:
 2147483639
 -4980
 ```
+
 ## practical-1.3
-
-Research Task: Using the lecture material, and resources that you have found
-online, write a **200** word report in markdown in the **report.md** file about
-your understanding of the following topics in Java:
-
-- Naming Convention
-- Commenting
-- Sourcing Material Online
-- The compiling process
-
-This is a formative task, try and be clear and concise in your discussion in the
-report.
-
-See [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for
-guidance on how to write in markdown.
-
-## practical-1.4
 
 In the main method, print the sum for the addition, multiply, subtract, divide
 and remainder of two numbers `x` and `y` where:
@@ -98,7 +75,7 @@ Expected Output:
 34
 ```
 
-## practical-1.5
+## practical-1.4
 
 In the method `fancyPrint` complete the method to display the following pattern
 
