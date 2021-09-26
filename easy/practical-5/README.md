@@ -1,12 +1,5 @@
 # practical-5
 
-Make sure to fork this project into your portfolio space before progressing 
-with the practical. if you do not do this, then your changes may not be saved
-
-Instructions on how to do this can be found [here](https://ncl.instructure.com/courses/24644/pages/forking-or-cloning-a-project?module_item_id=1228552)
-
-A video showing a step by step on how to do this can be found [here](https://web.microsoftstream.com/video/4ecb0839-6fd9-48bc-b563-3ab2122ef011)
-
 ## practical 5.1
 
 The following code has been added to `src/Power`, open it and have a look at
