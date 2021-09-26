@@ -1,13 +1,5 @@
 # practical-5
 
-
-Make sure to fork this project into your portfolio space before progressing 
-with the practical. if you do not do this, then your changes may not be saved
-
-Instructions on how to do this can be found [here](https://ncl.instructure.com/courses/24644/pages/forking-or-cloning-a-project?module_item_id=1228552)
-
-A video showing a step by step on how to do this can be found [here](https://web.microsoftstream.com/video/4ecb0839-6fd9-48bc-b563-3ab2122ef011)
-
 ## Practical-5.1
 
 This practical extends upon practical 4. Copy and paste your `Garage` and
@@ -72,11 +64,5 @@ In the Controller class, provide a methods that do the following:
 In the IO class, extend the command line menu so that you can invoke the
  filters in the Controller class
  
-## Practical 5.5
-
-**Observation Task**
-Have a look at the solution for this practical and see if you can see any
- comparisons with what is being asked in the assessment.
-
-          
+        
       
