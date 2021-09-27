@@ -1,4 +1,4 @@
-# CSC8011-practicals-2021
+# CSC8011_practicals_2021
 
 A collection of "easy" and intermediate practical exercises to get you started with Java programming.
 
